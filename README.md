@@ -6,7 +6,7 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Md. Merajul Islam Sojib</h1>  
 <h3 align="center">A passionate Web Developer</h3>  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojibislam9878&" alt="shakilahmedatik" /></p>
 <br>
 
 <p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilahmedatik&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>
