@@ -9,7 +9,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojibislam9878&" alt="shakilahmedatik" /></p>
 <br>
 
-<p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilahmedatik&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>
+<p align="center"> <a href="https://github.com/sojibislam9878/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sojibislam9878&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
