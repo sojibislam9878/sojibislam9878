@@ -4,8 +4,8 @@
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Atik</h1>  
-<h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Md. Merajul Islam Sojib</h1>  
+<h3 align="center">A passionate Web Developer</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
 <br>
 
@@ -14,27 +14,21 @@
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working at [Programming Hero](https://www.programming-hero.com/)  
+- 🔭 I’m currently Looking for a job or internship
 
-- 🌱 I’m currently learning TypeScript, React-Native & Go.
+- 🌱 I’m currently learning Next.js, TypeScript.
 
-- 💬 Talk to me about React, Node, Python, JavaScript, Freelancing Opportunities etc.
- - 📫 Reach me at **shakilatik@gmail.com**  
+- 💬 Talk to me about React, Node, JavaScript.
+ - 📫 Reach me at **sojibislam9878@gmail.com**  
 
 <br>
   
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p align="left">  
-<a href="https://dev.to/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
-<a href="https://twitter.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+<p align="left"> 
 <a href="https://linkedin.com/in/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/11409373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11409373" height="30" width="40" /></a>  
 <a href="https://fb.com/shakil.atik15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>  
-<a href="https://instagram.com/__atik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__atik_" height="30" width="40" /></a>  
-<a href="https://dribbble.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
-<a href="https://www.behance.net/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
-<a href="https://medium.com/@shakilatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakilatik" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/hexacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hexacode" height="30" width="40" /></a>  
+<a href="https://instagram.com/__atik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__atik_" height="30" width="40" /></a>
 </p>  
 
 <br> 
